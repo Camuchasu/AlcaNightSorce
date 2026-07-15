@@ -1,0 +1,44 @@
+# Created by Metasequoia
+
+newmtl left
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd sky\Epic_BlueSunset_Cam_2_Left+X.bmp
+
+newmtl front
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd sky\Epic_BlueSunset_Cam_0_Front+Z.bmp
+
+newmtl up
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd sky\Epic_BlueSunset_Cam_4_Up+Y.bmp
+
+newmtl right
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd sky\Epic_BlueSunset_Cam_3_Right-X.bmp
+
+newmtl back
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd sky\Epic_BlueSunset_Cam_1_Back-Z.bmp
+
+newmtl down
+Ka 0.60000 0.60000 0.60000
+Kd 0.80000 0.80000 0.80000
+Ks 0.00000 0.00000 0.00000
+Ns 5.00000
+map_Kd sky\Epic_BlueSunset_Cam_5_Down-Y.bmp
+

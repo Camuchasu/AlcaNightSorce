@@ -1,0 +1,22 @@
+# Blender 4.4.1 MTL File: 'Flieldbunnri.blend'
+# www.blender.org
+
+newmtl Building_House_01_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_House_01_color01.png
+map_d textures/Building_House_01_color01.png
+
+newmtl Building_House_01_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_House_01_color03.png
+map_d textures/Building_House_01_color03.png

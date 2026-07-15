@@ -1,0 +1,212 @@
+# Blender 4.4.1 MTL File: 'Flieldbunnri.blend'
+# www.blender.org
+
+newmtl Building_Auto_Service
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Auto Service.png
+map_d textures/Building_Auto Service.png
+
+newmtl Building_Bakery
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Bakery.png
+map_d textures/Building_Bakery.png
+
+newmtl Building_Bar
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Bar.png
+map_d textures/Building_Bar.png
+
+newmtl Building_Books_Shop
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Books Shop.png
+map_d textures/Building_Books Shop.png
+
+newmtl Building_Chicken_Shop
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Chicken Shop.png
+map_d textures/Building_Chicken Shop.png
+
+newmtl Building_Clothing
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Clothing.png
+map_d textures/Building_Clothing.png
+
+newmtl Building_Coffee_Shop
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Coffee Shop.png
+map_d textures/Building_Coffee Shop.png
+
+newmtl Building_Drug_Store
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Drug Store.png
+map_d textures/Building_Drug Store.png
+
+newmtl Building_Factory
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Factory.png
+map_d textures/Building_Factory.png
+
+newmtl Building_Fast_Food
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Fast Food.png
+map_d textures/Building_Fast Food.png
+
+newmtl Building_Fruits__Shop
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Fruits  Shop.png
+map_d textures/Building_Fruits  Shop.png
+
+newmtl Building_Gas_Station
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Gas Station.png
+map_d textures/Building_Gas Station.png
+
+newmtl Building_Gift_Shop
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Gift Shop.png
+map_d textures/Building_Gift Shop.png
+
+newmtl Building_House_01_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_House_01_color01.png
+map_d textures/Building_House_01_color01.png
+
+newmtl Building_House_01_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_House_01_color03.png
+map_d textures/Building_House_01_color03.png
+
+newmtl Building_Music_Store
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building_Music Store.png
+map_d textures/Building_Music Store.png
+
+newmtl Building_Sky_big_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Building Sky_big_color02.png
+map_d textures/Building Sky_big_color02.png
+
+newmtl Natures
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Natures.png
+map_d textures/Natures.png
+
+newmtl Props_Props_01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Props_Props_01.png
+map_d textures/Props_Props_01.png
+
+newmtl Props_TrafficProps
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Props_TrafficProps.png
+map_d textures/Props_TrafficProps.png
+
+newmtl Road
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Road.png
+map_d textures/Road.png

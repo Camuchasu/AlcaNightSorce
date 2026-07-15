@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Effekseer\EffekseerManager.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="Effekseer\EffekseerEffect.h">
+      <Filter>Effekseer</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Hp.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Base\ObjectBase.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\GameManager.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Base\CharaBase.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Item\Card.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\JobSystem.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\UI.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Bullet.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Mp.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Base\Task.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Base\TaskManager.h">
+      <Filter>Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\SwordTrailEffect.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Title\Title.h">
+      <Filter>Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Shield.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\BossEnemy.h">
+      <Filter>Game\Charactor\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Enemy1.h">
+      <Filter>Game\Charactor\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Enemy2.h">
+      <Filter>Game\Charactor\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Enemy3.h">
+      <Filter>Game\Charactor\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\EnemyBase.h">
+      <Filter>Game\Charactor\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\EnemyManager.h">
+      <Filter>Game\Charactor\Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Mission.h">
+      <Filter>Game\Mission</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\MissionManager.h">
+      <Filter>Game\Mission</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\MissionEnemyDefeated.h">
+      <Filter>Game\Mission</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\MiniMap.h">
+      <Filter>Game\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Field.h">
+      <Filter>Game\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\SkyBox.h">
+      <Filter>Game\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Spawner.h">
+      <Filter>Game\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\GameClear.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\GameOver.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\MissionRoofEnmeyDefeated.h">
+      <Filter>Game\Mission</Filter>
+    </ClInclude>
+    <ClInclude Include="Title\TitleCard.h">
+      <Filter>Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Player.h">
+      <Filter>Game\Charactor\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\BreakModel.h">
+      <Filter>Game\BreakModel</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\BreakModelBase.h">
+      <Filter>Game\BreakModel</Filter>
+    </ClInclude>
+    <ClInclude Include="InvisibleWall.h">
+      <Filter>Game\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\GameCamera.h">
+      <Filter>Game\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\CameraControl.h">
+      <Filter>Game\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Pause\Pause.h">
+      <Filter>Game\Pause</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\SlideUI.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\DebugCamera.h">
+      <Filter>Game\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\BossCamera.h">
+      <Filter>Game\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Title\Load.h">
+      <Filter>Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Item\ItemBag.h">
+      <Filter>Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Tutorial\Tutorial.h">
+      <Filter>Tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Gauge.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\EnemyCamera.h">
+      <Filter>Game\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\AreaChange.h">
+      <Filter>Game\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="UI\Fade.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\FallingRubble.h">
+      <Filter>Game\Map</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\RubbleFallArea.h">
+      <Filter>Game\Map</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Effekseer\EffekseerManager.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="Effekseer\EffekseerEffect.cpp">
+      <Filter>Effekseer</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="UI\Hp.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Base\ObjectBase.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\GameManager.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Base\CharaBase.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Item\Card.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\JobSystem.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\UI.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Bullet.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Mp.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Base\Task.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Base\TaskManager.cpp">
+      <Filter>Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\SwordTrailEffect.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Title\Title.cpp">
+      <Filter>Title</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Shield.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\BossEnemy.cpp">
+      <Filter>Game\Charactor\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Enemy1.cpp">
+      <Filter>Game\Charactor\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Enemy2.cpp">
+      <Filter>Game\Charactor\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Enemy3.cpp">
+      <Filter>Game\Charactor\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\EnemyBase.cpp">
+      <Filter>Game\Charactor\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\EnemyManager.cpp">
+      <Filter>Game\Charactor\Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Player.cpp">
+      <Filter>Game\Charactor\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Mission.cpp">
+      <Filter>Game\Mission</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\MissionManager.cpp">
+      <Filter>Game\Mission</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\MissionEnemyDefeated.cpp">
+      <Filter>Game\Mission</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\MissionRoofEnmeyDefeated.cpp">
+      <Filter>Game\Mission</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\MiniMap.cpp">
+      <Filter>Game\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Field.cpp">
+      <Filter>Game\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\SkyBox.cpp">
+      <Filter>Game\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Spawner.cpp">
+      <Filter>Game\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\GameClear.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\GameOver.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Title\TitleCard.cpp">
+      <Filter>Title</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\BreakModel.cpp">
+      <Filter>Game\BreakModel</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\BreakModelBase.cpp">
+      <Filter>Game\BreakModel</Filter>
+    </ClCompile>
+    <ClCompile Include="InvisibleWall.cpp">
+      <Filter>Game\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\GameCamera.cpp">
+      <Filter>Game\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera\CameraControl.cpp">
+      <Filter>Game\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Pause\Pause.cpp">
+      <Filter>Game\Pause</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\SlideUI.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera\DebugCamera.cpp">
+      <Filter>Game\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera\BossCamera.cpp">
+      <Filter>Game\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Title\Load.cpp">
+      <Filter>Title</Filter>
+    </ClCompile>
+    <ClCompile Include="Item\ItemBag.cpp">
+      <Filter>Item</Filter>
+    </ClCompile>
+    <ClCompile Include="Tutorial\Tutorial.cpp">
+      <Filter>Tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Gauge.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera\EnemyCamera.cpp">
+      <Filter>Game\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\AreaChange.cpp">
+      <Filter>Game\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="UI\Fade.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\FallingRubble.cpp">
+      <Filter>Game\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\RubbleFallArea.cpp">
+      <Filter>Game\Map</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Base">
+      <UniqueIdentifier>{c82e17db-4a05-41de-9102-e75c7954fa95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effekseer">
+      <UniqueIdentifier>{e10b7def-06b6-4fbb-9d14-9b595b65145d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{441a9318-a75e-4e93-ab36-4c83469977ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{5d96e732-e627-47ac-b642-0017f5bd12a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item">
+      <UniqueIdentifier>{09e1fc96-b408-4c9e-80f9-c4e4999358c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Title">
+      <UniqueIdentifier>{22e11fa6-7c1c-4fe9-8a5f-1928eef0f3cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Charactor">
+      <UniqueIdentifier>{9ef4dfcb-a985-4cbc-b281-a55fa7e01f7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Charactor\Player">
+      <UniqueIdentifier>{ade7d02d-2175-4818-821d-ab5a6aec4d7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Mission">
+      <UniqueIdentifier>{59c27b33-e0e7-4d73-b188-a4cb7160ceef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Map">
+      <UniqueIdentifier>{bc65296d-d454-4200-8701-bdb3435aa060}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Charactor\Enemy">
+      <UniqueIdentifier>{cb47fe03-fc88-41e6-8bd5-9a362926189e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\BreakModel">
+      <UniqueIdentifier>{4113b9d9-8994-4d08-a691-eb34932e4ebe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Camera">
+      <UniqueIdentifier>{56b51a77-51dc-4c27-9cc4-d0f1ecfeb969}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Pause">
+      <UniqueIdentifier>{29209b99-17ac-4eda-9b10-533aafbf317a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tutorial">
+      <UniqueIdentifier>{1e03721b-1dd5-4361-a1e9-f9106ed1b07f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

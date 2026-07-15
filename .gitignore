@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+
+# Build
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio cache
+*.ipch
+*.VC.db
+*.VC.opendb
+
+# User settings
+*.user
+*.suo
+
+# Temporary files
+*.tmp
+*.log
+
+# Visual Studio generated folders
+[Bb]in/
+[Oo]bj/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Visual Studio Code
+.vscode/

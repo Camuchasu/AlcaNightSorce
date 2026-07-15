@@ -1,0 +1,22 @@
+# Blender 4.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Vehicle_Bus_color03.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Vehicle_Bus_3.png
+map_d textures/Vehicle_Bus_3.png
+
+newmtl Vehicle_Pick_up_Truck_color01.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Vehicle_Pick up Truck_1.png
+map_d textures/Vehicle_Pick up Truck_1.png

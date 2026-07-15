@@ -1,0 +1,32 @@
+# Blender 4.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Natures
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Natures.png
+map_d textures/Natures.png
+
+newmtl Props_Props_01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Props_Props_01.png
+map_d textures/Props_Props_01.png
+
+newmtl Props_TrafficProps
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd textures/Props_TrafficProps.png
+map_d textures/Props_TrafficProps.png

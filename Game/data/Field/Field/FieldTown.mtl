@@ -1,0 +1,672 @@
+# Blender 4.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Building_Auto_Service
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Auto Service.png
+map_d C:/Building_Auto Service.png
+
+newmtl Building_Bakery
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Bakery.png
+map_d C:/Building_Bakery.png
+
+newmtl Building_Bar
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Bar.png
+map_d C:/Building_Bar.png
+
+newmtl Building_Books_Shop
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Books Shop.png
+map_d C:/Building_Books Shop.png
+
+newmtl Building_Chicken_Shop
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Chicken Shop.png
+map_d C:/Building_Chicken Shop.png
+
+newmtl Building_Clothing
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Clothing.png
+map_d C:/Building_Clothing.png
+
+newmtl Building_Coffee_Shop
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Coffee Shop.png
+map_d C:/Building_Coffee Shop.png
+
+newmtl Building_Drug_Store
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Drug Store.png
+map_d C:/Building_Drug Store.png
+
+newmtl Building_Factory
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Factory.png
+map_d C:/Building_Factory.png
+
+newmtl Building_Fast_Food
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Fast Food.png
+map_d C:/Building_Fast Food.png
+
+newmtl Building_Fruits__Shop
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Fruits  Shop.png
+map_d C:/Building_Fruits  Shop.png
+
+newmtl Building_Gas_Station
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Gas Station.png
+map_d C:/Building_Gas Station.png
+
+newmtl Building_Gift_Shop
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Gift Shop.png
+map_d C:/Building_Gift Shop.png
+
+newmtl Building_House_01_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_House_01_color01.png
+map_d C:/Building_House_01_color01.png
+
+newmtl Building_House_01_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_House_01_color02.png
+map_d C:/Building_House_01_color02.png
+
+newmtl Building_House_01_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_House_01_color03.png
+map_d C:/Building_House_01_color03.png
+
+newmtl Building_House_02_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_House_02_color01.png
+map_d C:/Building_House_02_color01.png
+
+newmtl Building_House_02_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_House_02_color02.png
+map_d C:/Building_House_02_color02.png
+
+newmtl Building_House_02_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_House_02_color03.png
+map_d C:/Building_House_02_color03.png
+
+newmtl Building_House_03_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_House_03_color01.png
+map_d C:/Building_House_03_color01.png
+
+newmtl Building_House_03_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_House_03_color02.png
+map_d C:/Building_House_03_color02.png
+
+newmtl Building_House_03_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_House_03_color03.png
+map_d C:/Building_House_03_color03.png
+
+newmtl Building_House_04_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_House_04_color01.png
+map_d C:/Building_House_04_color01.png
+
+newmtl Building_House_04_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_House_04_color02.png
+map_d C:/Building_House_04_color02.png
+
+newmtl Building_House_04_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_House_04_color03.png
+map_d C:/Building_House_04_color03.png
+
+newmtl Building_Music_Store
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Music Store.png
+map_d C:/Building_Music Store.png
+
+newmtl Building_Pizza
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Pizza.png
+map_d C:/Building_Pizza.png
+
+newmtl Building_Residential_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Residential_color01.png
+map_d C:/Building_Residential_color01.png
+
+newmtl Building_Residential_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Residential_color03.png
+map_d C:/Building_Residential_color03.png
+
+newmtl Building_Restaurant
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Restaurant.png
+map_d C:/Building_Restaurant.png
+
+newmtl Building_Shoes_Shop
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Shoes Shop.png
+map_d C:/Building_Shoes Shop.png
+
+newmtl Building_Sky_big_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building Sky_big_color01.png
+map_d C:/Building Sky_big_color01.png
+
+newmtl Building_Sky_big_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building Sky_big_color02.png
+map_d C:/Building Sky_big_color02.png
+
+newmtl Building_Sky_big_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building Sky_big_color03.png
+map_d C:/Building Sky_big_color03.png
+
+newmtl Building_Sky_small_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building Sky_small_color01.png
+map_d C:/Building Sky_small_color01.png
+
+newmtl Building_Sky_small_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building Sky_small_color02.png
+map_d C:/Building Sky_small_color02.png
+
+newmtl Building_Sky_small_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building Sky_small_color03.png
+map_d C:/Building Sky_small_color03.png
+
+newmtl Building_Stadium
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/24051/Downloads/VRMTest-main/VRMTest-main/Assets/SimplePoly City - Low Poly Assets/Textures/Building_Stadium.png
+map_d C:/Users/24051/Downloads/VRMTest-main/VRMTest-main/Assets/SimplePoly City - Low Poly Assets/Textures/Building_Stadium.png
+
+newmtl Building_Super_Market
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Building_Super Market.png
+map_d C:/Building_Super Market.png
+
+newmtl Natures
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Natures.png
+map_d C:/Natures.png
+
+newmtl Props_BillBoard_large
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Props_BillBoard_large.png
+map_d C:/Props_BillBoard_large.png
+
+newmtl Props_BillBoard_small
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Props_BillBoard_small.png
+map_d C:/Props_BillBoard_small.png
+
+newmtl Props_Props_01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Props_Props_01.png
+map_d C:/Props_Props_01.png
+
+newmtl Props_RoofProps
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Props_RoofProps.png
+map_d C:/Props_RoofProps.png
+
+newmtl Props_TrafficProps
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Props_TrafficProps.png
+map_d C:/Props_TrafficProps.png
+
+newmtl Road
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Road.png
+map_d C:/Road.png
+
+newmtl Vehicle_Ambulance
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Ambulance.png
+map_d C:/Vehicle_Ambulance.png
+
+newmtl Vehicle_Bus_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Bus_1.png
+map_d C:/Vehicle_Bus_1.png
+
+newmtl Vehicle_Bus_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Bus_2.png
+map_d C:/Vehicle_Bus_2.png
+
+newmtl Vehicle_Bus_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Bus_3.png
+map_d C:/Vehicle_Bus_3.png
+
+newmtl Vehicle_Car_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Car_1.png
+map_d C:/Vehicle_Car_1.png
+
+newmtl Vehicle_Car_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Car_2.png
+map_d C:/Vehicle_Car_2.png
+
+newmtl Vehicle_Car_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Car_3.png
+map_d C:/Vehicle_Car_3.png
+
+newmtl Vehicle_Container_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Container_1.png
+map_d C:/Vehicle_Container_1.png
+
+newmtl Vehicle_Container_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Container_2.png
+map_d C:/Vehicle_Container_2.png
+
+newmtl Vehicle_Container_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Container_3.png
+map_d C:/Vehicle_Container_3.png
+
+newmtl Vehicle_Pick_up_Truck_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Pick up Truck_1.png
+map_d C:/Vehicle_Pick up Truck_1.png
+
+newmtl Vehicle_Pick_up_Truck_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Pick up Truck_2.png
+map_d C:/Vehicle_Pick up Truck_2.png
+
+newmtl Vehicle_Pick_up_Truck_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Pick up Truck_3.png
+map_d C:/Vehicle_Pick up Truck_3.png
+
+newmtl Vehicle_Police_Car
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Police Car.png
+map_d C:/Vehicle_Police Car.png
+
+newmtl Vehicle_SUV_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_SUV_1.png
+map_d C:/Vehicle_SUV_1.png
+
+newmtl Vehicle_SUV_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_SUV_2.png
+map_d C:/Vehicle_SUV_2.png
+
+newmtl Vehicle_SUV_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_SUV_3.png
+map_d C:/Vehicle_SUV_3.png
+
+newmtl Vehicle_Taxi
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Taxi.png
+map_d C:/Vehicle_Taxi.png
+
+newmtl Vehicle_Truck_color01
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Truck_1.png
+map_d C:/Vehicle_Truck_1.png
+
+newmtl Vehicle_Truck_color02
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Truck_2.png
+map_d C:/Vehicle_Truck_2.png
+
+newmtl Vehicle_Truck_color03
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Vehicle_Truck_3.png
+map_d C:/Vehicle_Truck_3.png

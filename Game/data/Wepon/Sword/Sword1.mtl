@@ -1,0 +1,13 @@
+# Blender 4.4.1 MTL File: 'None'
+# www.blender.org
+
+newmtl LongSword.002
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Textures/SwordA_v004_Default_AlbedoTransparency.png
+map_Ke Textures/SwordA_v004_Default_Emission.png
+map_Bump Textures/SwordA_v004_Default_Normal.png

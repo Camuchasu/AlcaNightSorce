@@ -1,0 +1,24 @@
+# Blender 4.4.1 MTL File: 'Acx.blend'
+# www.blender.org
+
+newmtl Head
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd Textures/MetallAx2 AlbedoMap_Head.png
+map_Ks Textures/MetallAx2 SpecularMap_Head.png
+map_d Textures/MetallAx2 AlbedoMap_Head.png
+map_Bump Textures/MetallAx2 NormalMap.png
+
+newmtl Hilt
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 3
+map_Kd Textures/MetallAx2 AlbedoMap_Hilt.png
+map_Ks Textures/MetallAx2 SpecularMap_Hilt.png
+map_d Textures/MetallAx2 AlbedoMap_Hilt.png
+map_Bump Textures/MetallAx2 NormalMap.png
